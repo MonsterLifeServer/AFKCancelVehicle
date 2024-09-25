@@ -1,0 +1,6 @@
+name: AFKCancelVehicle
+version: '${project.version}'
+main: xyz.mlserver.afkcancelvehicle.AFKCancelVehicle
+
+depend:
+    - AFKPlus
